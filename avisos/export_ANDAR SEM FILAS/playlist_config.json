@@ -1,0 +1,49 @@
+{
+    "playlist": {
+        "files": [
+            {
+                "path": "1 andar sem filas.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ]
+            },
+            {
+                "path": "2 andar sem filas.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ]
+            },
+            {
+                "path": "4 andar sem filas.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ]
+            },
+            {
+                "path": "5 andar sem filas.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ]
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "metadata": {
+        "export_date": "2025-05-d 09:55:58",
+        "playlist_name": "ANDAR SEM FILAS"
+    }
+}

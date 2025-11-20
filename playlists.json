@@ -1,0 +1,90 @@
+{
+    "FM": {
+        "files": [
+            {
+                "path": "C:/Users/micae/OneDrive/Documentos/avisos/avisos/30 min primeiro turno.wav",
+                "time": "00:00",
+                "repeats": 1,
+                "times": [
+                    "00:00",
+                    "15:33",
+                    "17:00"
+                ]
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "Abertura + Fech": {
+        "files": [],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "Dia a Dia": {
+        "files": [],
+        "time": "00:00",
+        "repeats": 1,
+        "active": false
+    },
+    "Cidar": {
+        "files": [],
+        "time": "00:00",
+        "repeats": 1,
+        "active": false
+    },
+    "ANDAR SEM FILAS": {
+        "files": [
+            {
+                "path": "C:/Users/micae/OneDrive/Documentos/avisos/avisos/export_ANDAR SEM FILAS\\1 andar sem filas.wav",
+                "time": "00:00",
+                "repeats": 1,
+                "times": [
+                    "00:00"
+                ]
+            },
+            {
+                "path": "C:/Users/micae/OneDrive/Documentos/avisos/avisos/export_ANDAR SEM FILAS\\2 andar sem filas.wav",
+                "time": "00:00",
+                "repeats": 1,
+                "times": [
+                    "00:00"
+                ]
+            },
+            {
+                "path": "C:/Users/micae/OneDrive/Documentos/avisos/avisos/export_ANDAR SEM FILAS\\4 andar sem filas.wav",
+                "time": "00:00",
+                "repeats": 1,
+                "times": [
+                    "00:00"
+                ]
+            },
+            {
+                "path": "C:/Users/micae/OneDrive/Documentos/avisos/avisos/export_ANDAR SEM FILAS\\5 andar sem filas.wav",
+                "time": "00:00",
+                "repeats": 1,
+                "times": [
+                    "00:00"
+                ]
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "CID": {
+        "files": [
+            {
+                "path": "C:/Users/micae/OneDrive/Documentos/avisos/avisos/export_CID\\cid entrada.wav",
+                "times": [
+                    "16:25"
+                ],
+                "repeats": 1
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    }
+}

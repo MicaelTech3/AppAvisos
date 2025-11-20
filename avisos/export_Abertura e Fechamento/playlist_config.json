@@ -1,0 +1,94 @@
+{
+    "playlist": {
+        "files": [
+            {
+                "path": "30 min primeiro turno.wav",
+                "times": [
+                    {
+                        "time": "14:30",
+                        "repeats": 3
+                    },
+                    {
+                        "time": "00:00",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "30 minutos para encerramento.wav",
+                "times": [
+                    {
+                        "time": "18:00",
+                        "repeats": 3
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "fim do 1 turno.wav",
+                "times": [
+                    {
+                        "time": "15:00",
+                        "repeats": 3
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "fim do expediente.wav",
+                "times": [
+                    {
+                        "time": "18:30",
+                        "repeats": 3
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "fim pulseira 1 turno.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "up para 2 turno.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Universal Pictures 1997-2012 logo with Minions' acapella 0.mp3",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "metadata": {
+        "export_date": "2025-05-03 18:24:51",
+        "playlist_name": "Abertura e Fechamento"
+    }
+}

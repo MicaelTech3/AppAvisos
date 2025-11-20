@@ -1,0 +1,24 @@
+{
+    "playlist": {
+        "files": [
+            {
+                "path": "cid entrada.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "metadata": {
+        "export_date": "2025-05-03 18:24:31",
+        "playlist_name": "CID"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "playlist": {
+        "files": [
+            {
+                "path": "arena metaverso melhor jogo.wav",
+                "times": [
+                    {
+                        "time": "10:30",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Bob-Esponja_s-Voice.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "desafio foto criativa.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Dica beat saber.wav",
+                "times": [
+                    {
+                        "time": "11:15",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Dica Caf\u00e9 gelado.wav",
+                "times": [
+                    {
+                        "time": "15:30",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Dica capitao cokie.wav",
+                "times": [
+                    {
+                        "time": "13:00",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "dica comece leve.wav",
+                "times": [
+                    {
+                        "time": "12:10",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Dica Soda Italiana.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "Dica starbucks.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "hamburguer gourmet.wav",
+                "times": [
+                    {
+                        "time": "12:00",
+                        "repeats": 2
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "melhor simulador F1.wav",
+                "times": [
+                    {
+                        "time": "14:15",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "melhores jogos PS5.wav",
+                "times": [
+                    {
+                        "time": "00:00",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "proibido guardar lugar na fila.wav",
+                "times": [
+                    {
+                        "time": "13:53",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            },
+            {
+                "path": "squad disponivel.wav",
+                "times": [
+                    {
+                        "time": "17:05",
+                        "repeats": 1
+                    }
+                ],
+                "volume": 0.8,
+                "media_volume": 0.8
+            }
+        ],
+        "time": "00:00",
+        "repeats": 1,
+        "active": true
+    },
+    "metadata": {
+        "export_date": "2025-05-03 18:25:05",
+        "playlist_name": "DIA A DIA"
+    }
+}
